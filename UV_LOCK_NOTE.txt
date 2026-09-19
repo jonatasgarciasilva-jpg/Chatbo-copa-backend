@@ -1,0 +1,1 @@
+Execute `uv lock` inside backend/ before deploying with Render's `uv sync --frozen`.
